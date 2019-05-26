@@ -1,0 +1,3 @@
+# Boston Housing Price Dataset
+
+Boston Dataset is a very popular dataset that consists of house prices in Boston. Each row represents a county and each variable represents some information related to that county. The dataset contains other information such as crime rate, age of house owners, nonretail business areas (INDUS), average number of rooms, pupil to teacher ratio of town, percentage of low income people in the area etc. This dataset is mostly used to predict the price of housing but in this assignment, I intend to predict the crime rate as a function of all other given variables.
